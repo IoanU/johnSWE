@@ -1,14 +1,14 @@
 # Concurrency
 
-Learn concurrency by watching interleavings happen, breaking synchronization, and writing real concurrent programs — not by memorizing definitions.
+Learn concurrency by watching interleavings happen, breaking synchronization, and writing real concurrent programs - not by memorizing definitions.
 
 ## Resources
 
 | Resource | Description |
 |---|---|
 | [The Deadlock Empire](https://deadlockempire.github.io/) | A concurrency puzzle game where you exploit thread interleavings to break programs. Excellent for developing intuition for race conditions, locks, deadlocks, and synchronization bugs. |
-| [A Tour of Go — Concurrency](https://go.dev/tour/concurrency/1) | Interactive browser exercises for goroutines, channels, buffered channels, `select`, mutexes, and concurrent design. |
-| [PortSwigger — Race Conditions](https://portswigger.net/web-security/race-conditions) | Free interactive labs built around realistic race conditions in web applications, including limit-overrun and multi-endpoint races. |
+| [A Tour of Go - Concurrency](https://go.dev/tour/concurrency/1) | Interactive browser exercises for goroutines, channels, buffered channels, `select`, mutexes, and concurrent design. |
+| [PortSwigger - Race Conditions](https://portswigger.net/web-security/race-conditions) | Free interactive labs built around realistic race conditions in web applications, including limit-overrun and multi-endpoint races. |
 
 ## Core concepts to understand
 

@@ -6,9 +6,9 @@ Free resources for learning cloud fundamentals and getting hands-on experience w
 
 | Resource | Best for |
 | --- | --- |
-| [Google Cloud Skills Boost — Arcade](https://go.cloudskillsboost.google/arcade) | Gamified Google Cloud learning and periodic hands-on challenges. Availability of individual labs can vary by campaign. |
+| [Google Cloud Skills Boost - Arcade](https://go.cloudskillsboost.google/arcade) | Gamified Google Cloud learning and periodic hands-on challenges. Availability of individual labs can vary by campaign. |
 | [flaws.cloud](http://flaws.cloud/) | Learning common AWS security mistakes through a deliberately vulnerable, level-based environment. |
-| [Microsoft Learn — Azure](https://learn.microsoft.com/en-us/training/azure/) | Free, structured Azure learning paths from fundamentals to role-specific topics. |
+| [Microsoft Learn - Azure](https://learn.microsoft.com/en-us/training/azure/) | Free, structured Azure learning paths from fundamentals to role-specific topics. |
 | [AWS Skill Builder](https://skillbuilder.aws/search?page=1&accessTier=free) | A large catalog of free AWS digital-learning resources. |
 
 ## What to learn

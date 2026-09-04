@@ -6,7 +6,7 @@ Hands-on resources for understanding processes, memory, system calls, scheduling
 
 | Resource | Description |
 |---|---|
-| [VisualizeIT — Page Replacement](https://visualize-it.tech/subjects/operating-systems) | Interactive simulators for file allocation & I/O buffering, memory partitioning, CPU scheduling, disk scheduling and page replacement. |
+| [VisualizeIT - Page Replacement](https://visualize-it.tech/subjects/operating-systems) | Interactive simulators for file allocation & I/O buffering, memory partitioning, CPU scheduling, disk scheduling and page replacement. |
 | [OS Lab](https://oslab.xikai.me/) | Interactive visualizations for CPU scheduling, paging, memory allocation, page replacement, and disk scheduling. |
 
 ## Core concepts

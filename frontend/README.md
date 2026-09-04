@@ -6,7 +6,7 @@ A mix of fundamentals, visual inspiration, interaction libraries, and tools for 
 
 | Resource | Best for |
 | --- | --- |
-| [MDN — Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn_web_development) | Structured HTML, CSS, JavaScript, accessibility, and frontend fundamentals. |
+| [MDN - Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn_web_development) | Structured HTML, CSS, JavaScript, accessibility, and frontend fundamentals. |
 | [Full Stack Open](https://fullstackopen.com/en/) | A free, university-backed deep dive into modern React, TypeScript, Node.js, APIs, testing, and related tooling. |
 
 ## Design inspiration
@@ -15,7 +15,7 @@ A mix of fundamentals, visual inspiration, interaction libraries, and tools for 
 | --- | --- |
 | [Refero](https://refero.design/) | Browsing real UI patterns and product-design references. |
 | [MotionSites](https://motionsites.ai/) | Animation-heavy landing-page inspiration and code examples; free selection is limited. |
-| [Pinterest](https://www.pinterest.com/) | Broad visual inspiration when you search for specific UI patterns such as “developer portfolio hero” or “SaaS pricing page.” |
+| [Pinterest](https://www.pinterest.com/) | Broad visual inspiration when you search for specific UI patterns such as "developer portfolio hero" or "SaaS pricing page." |
 
 ## Design generation
 

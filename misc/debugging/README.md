@@ -8,7 +8,7 @@ Practice debugging as a repeatable engineering process: reproduce, observe, form
 |---|---|
 | [Recticode](https://www.recticode.com/) | Free debugging practice built around real codebases and bugs: clone an issue, investigate it, fix it, and submit your solution. |
 | [Python Tutor](https://pythontutor.com/visualize.html) | Step through code execution visually and inspect variables, stack frames, objects, references, and control flow. Supports multiple popular languages. |
-| [Chrome DevTools — Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript) | Hands-on guide using a real demo application to learn breakpoints, stepping, scopes, call stacks, watches, and live debugging in the browser. |
+| [Chrome DevTools - Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript) | Hands-on guide using a real demo application to learn breakpoints, stepping, scopes, call stacks, watches, and live debugging in the browser. |
 
 ## Debugging workflow
 

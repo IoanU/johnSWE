@@ -1,6 +1,6 @@
 # Certificates
 
-Places to find courses and credentials that can support a technical CV — especially when they reinforce skills you can also demonstrate through projects or experience.
+Places to find courses and credentials that can support a technical CV - especially when they reinforce skills you can also demonstrate through projects or experience.
 
 ## Resources
 
@@ -14,7 +14,7 @@ Places to find courses and credentials that can support a technical CV — espec
 
 ## Rule of thumb
 
-A certificate is most useful when an interviewer can ask “what did you build or learn from this?” and you have a concrete answer. Avoid collecting certificates only to fill space.
+A certificate is most useful when an interviewer can ask "what did you build or learn from this?" and you have a concrete answer. Avoid collecting certificates only to fill space.
 
 ---
 [← CV Maxxing](../README.md) · [← Main index](../../README.md)

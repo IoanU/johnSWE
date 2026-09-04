@@ -1,13 +1,13 @@
 # JavaScript
 
-Resources for understanding JavaScript as a language — not just as syntax used inside a framework.
+Resources for understanding JavaScript as a language - not just as syntax used inside a framework.
 
 ## Resources
 
 | Resource | Best for |
 | --- | --- |
-| [Python Tutor — JavaScript](https://pythontutor.com/javascript.html) | Visualizing execution and basic runtime behavior step by step. |
-| [MDN — JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | A reliable, structured reference for core language concepts and browser-facing JavaScript. |
+| [Python Tutor - JavaScript](https://pythontutor.com/javascript.html) | Visualizing execution and basic runtime behavior step by step. |
+| [MDN - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) | A reliable, structured reference for core language concepts and browser-facing JavaScript. |
 | [javascript.info](https://javascript.info/) | A free modern JavaScript tutorial covering the language and browser APIs in depth. |
 
 ## Focus areas

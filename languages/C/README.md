@@ -6,7 +6,7 @@ Resources for understanding C execution, memory, pointers, and the lower-level b
 
 | Resource | Best for |
 | --- | --- |
-| [Python Tutor — C](https://pythontutor.com/c.html) | Visualizing execution step by step, including variables, pointers, stack frames, and memory relationships. |
+| [Python Tutor - C](https://pythontutor.com/c.html) | Visualizing execution step by step, including variables, pointers, stack frames, and memory relationships. |
 | [Beej's Guide to C Programming](https://beej.us/guide/bgc/) | A free, approachable C guide that moves from fundamentals into pointers, memory, files, and other practical topics. |
 | [Compiler Explorer](https://godbolt.org/) | Comparing generated assembly and understanding how C maps to machine code under different optimization levels. |
 

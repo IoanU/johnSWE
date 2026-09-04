@@ -6,7 +6,7 @@ Resources for learning Python cleanly, understanding the language model, and bui
 
 | Resource | Best for |
 | --- | --- |
-| [Python Tutor — Python](https://pythontutor.com/python.html) | Visualizing execution, references, objects, and call frames step by step. |
+| [Python Tutor - Python](https://pythontutor.com/python.html) | Visualizing execution, references, objects, and call frames step by step. |
 | [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) | A project-friendly, day-by-day path through Python fundamentals and common libraries. |
 | [The Python Tutorial](https://docs.python.org/3/tutorial/) | The official introduction to Python and its core language features. |
 

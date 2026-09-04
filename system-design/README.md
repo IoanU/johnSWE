@@ -7,8 +7,8 @@ Resources for learning how scalable systems are decomposed, how components inter
 | Resource | Best for |
 | --- | --- |
 | [System Design Primer](https://github.com/donnemartin/system-design-primer) | A comprehensive, open-source introduction to scalable-system concepts and common interview questions. |
-| [ByteByteGo — System Design 101](https://github.com/ByteByteGoHq/system-design-101) | Visual explanations of common architecture patterns and infrastructure concepts. |
-| [AlgoMaster — System Design](https://blog.algomaster.io/t/system-design) | Clear system-design articles and diagrams. **Note:** not every piece of content is free, so use the freely accessible material only. |
+| [ByteByteGo - System Design 101](https://github.com/ByteByteGoHq/system-design-101) | Visual explanations of common architecture patterns and infrastructure concepts. |
+| [AlgoMaster - System Design](https://blog.algomaster.io/t/system-design) | Clear system-design articles and diagrams. **Note:** not every piece of content is free, so use the freely accessible material only. |
 
 ## Core topics
 

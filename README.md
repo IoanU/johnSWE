@@ -1,6 +1,6 @@
 # johnSWE
 
-> A curated collection of free, high-quality resources for learning software engineering and computer engineering - without having to comment **“link”** under another Instagram Reel.
+> A curated collection of free, high-quality resources for learning software engineering and computer engineering - without having to comment **"link"** under another Instagram Reel.
 
 Use this repository to explore a new field, prepare for interviews, fill gaps in university coursework, or go deeper into a topic you already work with.
 

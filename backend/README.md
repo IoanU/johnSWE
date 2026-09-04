@@ -1,6 +1,6 @@
 # Backend Development
 
-Modern, hands-on resources for learning how production backends work — from requests and APIs to authentication, state, caching, databases, and frameworks.
+Modern, hands-on resources for learning how production backends work - from requests and APIs to authentication, state, caching, databases, and frameworks.
 
 ## Start here
 
@@ -29,7 +29,7 @@ Modern, hands-on resources for learning how production backends work — from re
 
 | Resource | Description |
 |---|---|
-| [MDN — Using HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies) | Clear modern guide to how cookies work, including `Secure`, `HttpOnly`, `SameSite`, expiration, scope, privacy, and security. |
+| [MDN - Using HTTP Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies) | Clear modern guide to how cookies work, including `Secure`, `HttpOnly`, `SameSite`, expiration, scope, privacy, and security. |
 | [FastAPI Interactive](https://www.fastapiinteractive.com/) | Includes executable browser exercises for receiving and working with cookies in a backend application. |
 
 ## Caching

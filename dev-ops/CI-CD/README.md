@@ -6,9 +6,9 @@ Hands-on resources for learning how code moves from a commit to automated tests,
 
 | Resource | Description |
 |---|---|
-| [GitHub Skills — Hello GitHub Actions](https://github.com/skills/hello-github-actions) | Learn GitHub Actions by modifying a real repository and creating a workflow that runs automatically. |
-| [GitHub Skills — Test with Actions](https://github.com/skills/test-with-actions) | Hands-on GitHub Skills course for running tests in CI, publishing coverage, and working with branch protections. |
-| [GitLab CI/CD — Get Started](https://docs.gitlab.com/ci/quick_start/) | Build and run your first GitLab pipeline with jobs, stages, runners, and `.gitlab-ci.yml`. |
+| [GitHub Skills - Hello GitHub Actions](https://github.com/skills/hello-github-actions) | Learn GitHub Actions by modifying a real repository and creating a workflow that runs automatically. |
+| [GitHub Skills - Test with Actions](https://github.com/skills/test-with-actions) | Hands-on GitHub Skills course for running tests in CI, publishing coverage, and working with branch protections. |
+| [GitLab CI/CD - Get Started](https://docs.gitlab.com/ci/quick_start/) | Build and run your first GitLab pipeline with jobs, stages, runners, and `.gitlab-ci.yml`. |
 | [GitLab CI/CD Tutorial](https://docs.gitlab.com/ci/quick_start/tutorial/) | A guided project that progressively turns a basic pipeline into a more realistic CI/CD workflow. |
 
 ## Core concepts to understand

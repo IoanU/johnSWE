@@ -8,7 +8,7 @@ Interactive and implementation-first resources for understanding how source code
 |---|---|
 | [AST Explorer](https://ast-explorer.dev/) | Paste code and instantly inspect its abstract syntax tree using many different parsers. Great for developing intuition for syntax trees and transformations. |
 | [Compiler Explorer](https://godbolt.org/) | Edit source code and immediately see the assembly or compiler output produced by GCC, Clang, MSVC, Rust, and many other toolchains. |
-| [LLVM — My First Language Frontend](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/) | Build a small programming language step by step using LLVM, from lexer and parser through AST, LLVM IR, JIT compilation, and object-code generation. |
+| [LLVM - My First Language Frontend](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/) | Build a small programming language step by step using LLVM, from lexer and parser through AST, LLVM IR, JIT compilation, and object-code generation. |
 
 ## The compilation pipeline
 

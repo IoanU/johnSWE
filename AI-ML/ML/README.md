@@ -6,7 +6,7 @@ Resources for learning machine-learning fundamentals and understanding how ML sy
 
 | Resource | Best for |
 | --- | --- |
-| [Microsoft — ML for Beginners](https://github.com/microsoft/ML-For-Beginners) | A structured, beginner-friendly curriculum covering core ML concepts through lessons and projects. |
+| [Microsoft - ML for Beginners](https://github.com/microsoft/ML-For-Beginners) | A structured, beginner-friendly curriculum covering core ML concepts through lessons and projects. |
 | [Applied ML](https://github.com/eugeneyan/applied-ml) | Curated papers, articles, and engineering write-ups about data science and machine learning in production. |
 | [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | A concise introduction to practical ML concepts with exercises and visual explanations. |
 

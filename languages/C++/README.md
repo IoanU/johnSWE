@@ -6,7 +6,7 @@ Resources for learning modern C++ while also understanding object lifetime, the 
 
 | Resource | Best for |
 | --- | --- |
-| [Python Tutor — C++](https://pythontutor.com/cpp.html) | Visualizing execution, objects, references, pointers, and call flow step by step. |
+| [Python Tutor - C++](https://pythontutor.com/cpp.html) | Visualizing execution, objects, references, pointers, and call flow step by step. |
 | [LearnCpp](https://www.learncpp.com/) | A free, structured path from fundamentals to modern C++ concepts. |
 | [cppreference](https://en.cppreference.com/) | The day-to-day reference for the language and standard library. |
 | [Compiler Explorer](https://godbolt.org/) | Inspecting generated assembly, comparing compilers, and experimenting with optimization flags and language standards. |
