@@ -11,6 +11,17 @@ Free university-level computer-science material for learning subjects in a more 
 | [Class Central](https://www.classcentral.com/) | Discovering courses from universities and learning platforms. Many courses can be accessed for free, but certificates or some platform features may cost money. |
 | [OSSU Computer Science](https://github.com/ossu/computer-science) | A free, community-maintained curriculum that maps open courses into a full computer-science study path. |
 
+## Guides
+
+| Topic | Guide |
+| --- | --- |
+| Data Structures and Algorithms | [DSA resources](DSA/README.md) |
+| Computer networks | [Computer networks resources](computer-networks/README.md) |
+| Computer architecture | [Computer architecture resources](computer-architecture/README.md) |
+| Operating systems | [Operating systems resources](OS/README.md) |
+| Concurrency | [Concurrency resources](concurrency/README.md) |
+| Compilers | [Compilers resources](compilers/README.md) |
+
 ## How to use this section
 
 Use university courses when you want depth and structure rather than a quick tutorial. For core topics such as algorithms, operating systems, databases, networking, and computer architecture, a full course is often worth the extra time.

@@ -9,6 +9,7 @@ A practical collection for software-engineering interviews: coding patterns, com
 | [Tech OA & Interview Questions](https://github.com/perixtar/Tech-OA-Interview-Questions) | Community-maintained questions for software-engineering online assessments and technical interviews, including coding, SQL, system design, OOD, and AI coding. |
 | [FAANG Coding Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions) | Curated coding, system-design, and ML interview questions across major tech companies and AI-focused companies. |
 | [Coding Interview Questions by Company](https://github.com/liquidslr/leetcode-company-wise-problems) | Curated lists of Leetcode questions grouped by companies. |
+| [Technical Interview Prep](https://whitebox.ac/) | Interview problems, DSA problems sorted by category, domain knowledge quizes and other curated resources. |
 
 ## The PRIME method
 

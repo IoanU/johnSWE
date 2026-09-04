@@ -11,6 +11,12 @@ Hands-on resources for operating software reliably: Linux troubleshooting, conta
 | [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | Official tutorial covering deployment, scaling, updates, and debugging of containerized applications. |
 | [Pro Git](https://git-scm.com/book/en/v2) | The complete Git book, available free online. Useful far beyond basic Git commands. |
 
+## Guides
+
+| Topic | Guide |
+| --- | --- |
+| CI/CD | [CI/CD resources](CI-CD/README.md) |
+
 ## Core topics
 
 Linux, networking, Git, containers, CI/CD, infrastructure as code, observability, deployment strategies, incident response, and Kubernetes are a strong practical sequence.

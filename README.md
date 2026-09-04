@@ -21,11 +21,13 @@ Use this repository to explore a new field, prepare for interviews, fill gaps in
 | --- | --- | --- |
 | **AI & Machine Learning** | ML foundations, production ML, and agentic AI. | [Open guide](AI-ML/README.md) |
 | **APIs** | Protocols, API design, HTTP, rate limiting, and security. | [Open guide](api/README.md) |
+| **Backend** | Auth, sessions, cookies, caching and common frameworks. | [Open guide](backend/README.md) |
 | **Cloud** | AWS, Azure, Google Cloud, and cloud-security practice. | [Open guide](cloud/README.md) |
 | **Cybersecurity** | Web-security concepts, hands-on labs, and testing methodology. | [Open guide](cybersecurity/README.md) |
 | **Data Engineering** | Pipelines, orchestration, warehousing, and production data systems. | [Open guide](data-engineering/README.md) |
 | **Databases** | SQL, database internals, transactions, indexing, and query processing. | [Open guide](database/README.md) |
 | **DevOps** | Linux troubleshooting, containers, Kubernetes, and operations. | [Open guide](dev-ops/README.md) |
+| **Distributed Systems** | Partitions, leader election, observe failure behavior and replication. | [Open guide](distributed-systems/README.md) |
 | **Frontend** | Web fundamentals, UI inspiration, animations, and data visualization. | [Open guide](frontend/README.md) |
 | **Interview Prep** | Coding patterns, company questions, mocks, and interview strategy. | [Open guide](interview-prep/README.md) |
 | **Programming Languages** | General language practice plus language-specific resources. | [Open guide](languages/README.md) |
@@ -52,6 +54,20 @@ Use this repository to explore a new field, prepare for interviews, fill gaps in
 ### CV & portfolio
 - [Certificates](CV-maxxing/certificates/README.md)
 - [Project ideas](CV-maxxing/projects/README.md)
+
+### University courses
+- [Data structures and algorithms](uni-courses/DSA/README.md)
+- [Computer netwroks](uni-courses/computer-networks/README.md)
+- [Computer architecture](uni-courses/computer-architecture/README.md)
+- [Operating systems](uni-courses/OS/README.md)
+- [Concurrency](uni-courses/concurrency/README.md)
+- [Compilers](uni-courses/compilers/README.md)
+
+### DevOps
+- [CI/CD](dev-ops/CI-CD/README.md)
+
+### Miscellaneous
+- [Debugging](misc/debugging/README.md)
 
 ## Contributing
 
